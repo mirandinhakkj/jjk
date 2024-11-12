@@ -1,0 +1,29 @@
+header{
+    border-bottom: solid rgb(131, 0, 0);
+    padding:30px;
+    font-size: 35px;
+    color: rgba(102, 43, 75, 0.938);
+    
+}
+
+section{
+    background: rgb(250, 204, 185);
+    padding-bottom: 85px;
+    padding-top: 85px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.texto{
+    margin-right: 5%;
+    margin-left: 20px;
+}
+
+h1{
+    font-size: 47px;
+}
+
+p{
+    font-size: 25px;
+}
